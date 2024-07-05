@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "App_Book",
+    "slug": "App_Book",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Images/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Images/logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Images/logo.png"
+    }
+  }
+}
